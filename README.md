@@ -1,6 +1,5 @@
 ## Portfolio Website
 
-## Overview
 This is the HTML code for Personal portfolio website, designed to showcase web design work and other projects.
 
 ## Key Features
